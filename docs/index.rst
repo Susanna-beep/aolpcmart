@@ -6,7 +6,7 @@ In today’s digital era, AOL Desktop Gold continues to be a popular choice for 
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://aolgolddesk.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AOL Gold</a>
+       <a href="https://myaolgold.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AOL Gold</a>
    </div>
 
 This guide will provide detailed, step-by-step instructions for downloading, installing, and reinstalling AOL Desktop Gold as a current member. You’ll also learn how to prepare your system, avoid common issues, and ensure smooth access to your AOL account without buying the software again.  
