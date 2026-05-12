@@ -153,3 +153,15 @@ As a current member, you have full access to **aol gold desktop download existin
 
 With the right preparation and following this walkthrough, you can **install aol on This Computer** seamlessly and enjoy uninterrupted use of AOL Desktop Gold’s secure browsing, email, and premium features.  
 
+Helpful Resources
+--------
+
+.. toctree::
+   :maxdepth: 2
+   :caption:  Pages
+
+   Product-desktop-gold-download-existing-account
+   browsers-download-desktop-gold-existing-member
+   mybenefits-downloads-for-existing-members-gold
+   meets-desktop-gold-reinstall-current-member
+   new-desktop-gold-download-existing-account-reinstall-with-current-member
